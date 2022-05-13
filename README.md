@@ -1,0 +1,1 @@
+This is the file whit the instruction to configure the project
