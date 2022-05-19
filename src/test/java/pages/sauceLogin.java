@@ -11,7 +11,7 @@ import java.util.concurrent.TimeUnit;
 public class sauceLogin {
 
     /**
-     * Locators and methodss
+     * Locators and methods of the sauceLogin pages
      */
     By usernameField = By.id("user-name");
     By passwordField = By.name("password");
