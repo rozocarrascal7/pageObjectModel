@@ -11,7 +11,7 @@ import java.util.concurrent.TimeUnit;
 public class sauceLogin {
 
     /**
-     * Locators TESTS BRANCH
+     * Locators TESTS BRANCH_sub_Branchs
      */
     By usernameField = By.id("user-name");
     By passwordField = By.name("password");
